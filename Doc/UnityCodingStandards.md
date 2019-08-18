@@ -55,10 +55,10 @@
 |Transfom  |Trans|`Transform mScrollViewTrans;`
 |RectTransform|RTrans|`RectTransform mScrollContentRTrans;`
 |Array|复数形式|`int[] mMembers;`
-|List|List|`List<int> mMemberList`
+|List|List|`List<int> mMemberList`;
 |Dictionary|Dict|`Dictionary<int,string> mIDForNameDict;`
 |Action|Act|`Action OnReleaseAct;`
-|Func|Func|`Func mReleaseFunc`
+|Func|Func|`Func DoReleaseFunc`;
 
 
 ## 参考
