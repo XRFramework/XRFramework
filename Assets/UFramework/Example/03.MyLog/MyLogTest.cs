@@ -1,5 +1,5 @@
 ﻿using System;
-using UFramework;
+using XRFramework;
 using UnityEngine;
 using UnityEngine.Assertions;
 

@@ -1,4 +1,4 @@
-﻿using UFramework;
+﻿using XRFramework;
 
 public class XXXManager : Singleton<XXXManager>
 {

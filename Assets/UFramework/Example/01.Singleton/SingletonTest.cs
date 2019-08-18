@@ -1,4 +1,4 @@
-﻿using UFramework;
+﻿using XRFramework;
 using UnityEngine;
 
 public class SingletonTest : MonoBehaviour

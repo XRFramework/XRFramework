@@ -2,8 +2,9 @@
  * MIT License
  * 
  * Copyright (c) 2019 xiaojingli
+ * Copyright (c) 2019 renjunyi
  * 
- * https://github.com/JinLiGame/UnityFramework
+ * https://github.com/XRFramework/XRFramework
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -26,7 +27,7 @@
 
 using System;
 
-namespace UFramework
+namespace XRFramework
 {
     public class GameMain : MonoSingleton<GameMain>
     {
