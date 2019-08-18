@@ -57,7 +57,7 @@
 |Array|复数形式|`int[] mMembers;`
 |List|List|`List<int> mMemberList`
 |Dictionary|Dict|`Dictionary<int,string> mIDForNameDict;`
-|Action|Act|`Action onReleaseAct;`
+|Action|Act|`Action OnReleaseAct;`
 |Func|Func|`Func mReleaseFunc`
 
 
